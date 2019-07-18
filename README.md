@@ -22,3 +22,7 @@ Test data
 ===============
 * Iillustate the Fig. 6, 7, and 9 for k-Space Deep Learning fro Accelerated MRI
 * MR images from 'http://mridata.org/' are uploaded to train and test.
+
+For your own training
+===============
+* Please use "https://github.com/jongcye/kspace.deeplearning.MRI//k-space-deep-learning/matconvnet-1.0-beta24/examples/k-space-deep-learning/demo_training.m"
