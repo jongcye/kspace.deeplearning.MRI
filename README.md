@@ -25,4 +25,4 @@ Test data
 
 For your own training
 ===============
-* Please use "https://github.com/jongcye/kspace.deeplearning.MRI//k-space-deep-learning/matconvnet-1.0-beta24/examples/k-space-deep-learning/demo_training.m"
+* Please use the code at "https://github.com/jongcye/kspace.deeplearning.MRI//k-space-deep-learning/matconvnet-1.0-beta24/examples/k-space-deep-learning/demo_training.m"
